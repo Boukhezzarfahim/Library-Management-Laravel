@@ -10,7 +10,7 @@
 
 <img src="public/images/slider/front 4.png" alt="Screenshot"/>
 
-<img src="public/images/slider/front 3.png" alt="Screenshot"/>
+<img src="public/images/slider/froont 3.png" alt="Screenshot"/>
 
 <img src="public/images/slider/front 5.png" alt="Screenshot"/>
 
